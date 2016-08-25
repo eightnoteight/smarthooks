@@ -1,0 +1,6 @@
+{
+    "name": "smarthooks",
+    "image": "heroku/python",
+    "keywords": ["python", "aiohttp", "worker"],
+    "addons": [ "heroku-postgresql", "heroku-redis", "heroku-redistogo" ]
+}
