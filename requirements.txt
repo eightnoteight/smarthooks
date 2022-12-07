@@ -5,7 +5,7 @@ asyncio==3.4.3
 billiard==3.3.0.23
 cchardet==1.0.0
 celery==3.1.23
-certifi==2016.8.8
+certifi==2022.12.7
 chardet==2.3.0
 click==6.6
 future==0.15.2
